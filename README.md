@@ -1,7 +1,7 @@
 Griddle
 =======
 
-Layout containers for iOS
+Layout containers for iOS. Written in Swift. Works best with iOS8.
 
 Apple's autolayout is a powerful tool that can be used to solve UI layout issues across the myriad device form factors, but it's hard to debug, difficult to master, error-prone, and tedious.
 
@@ -12,5 +12,5 @@ LineLayout
 
 Linear layout, in either horizontal or vertical direction. Subviews are divided evenly across the available space. 
 
-let grid = LineLayout()
+See SampleLineLayoutViewController.swift for more details.
 
